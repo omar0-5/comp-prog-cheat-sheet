@@ -19,6 +19,6 @@ int main(){
     cin>>t;
     while(t--){
         int x;cin >> x;
-        cout << ans[x].size() << endl;
+        cout << ans[x].size() << endl; //number of divisors
     }
 }
